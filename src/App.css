@@ -1,0 +1,38 @@
+body {
+  font-family: "Inter", sans-serif !important;
+  color: #ffffff !important;
+  background-color: #332a64 !important;
+}
+
+.bg-image-1 {
+  background-image: url('assets/images/background/bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: saturation(0.1);
+}
+
+.bg-image-2 {
+  background-image: url('assets/images/background/bg-2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+h1 {
+  font-size: 2.5rem !important;
+  font-weight: 900 !important;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.8rem !important;
+  font-weight: 800 !important;
+  padding-top: rem !important;
+}
+
+p {
+  font-weight: 400 !important;
+}
